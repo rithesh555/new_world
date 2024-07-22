@@ -1,0 +1,9 @@
+hello evryoneee
+
+claa public {
+
+public static void main {
+
+
+welcome.....
+}
