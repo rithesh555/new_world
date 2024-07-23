@@ -1,4 +1,4 @@
-Class Entering{
+Class Hello{
 
 pucblic Static void Main(String args[]){
 
