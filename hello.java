@@ -1,4 +1,4 @@
-public Entering{
+Class Entering{
 
 pucblic Static void Main(String args[]){
 
